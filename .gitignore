@@ -3,15 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Data
-fred_weekly.json
-marketing_win_expense_weekly.json
-
-# IP
-xi_corr.py
-
 # C extensions
 *.so
+
+# Data
+marketing_win_expense_weekly.json
+fred_weekly.json
 
 # Distribution / packaging
 .Python
