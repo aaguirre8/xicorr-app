@@ -1,17 +1,9 @@
-# python-project-template
-This is a template for ML application projects
+# XiCorr FastAPI Server
+This app computes the Xi Correlation between two arrays.
 
-## Table of Contents
-
-- [Tech we use](#tech-we-use)
-- [Get started](#get-started)
-- [Usage](#usage)
-
-## Tech we use
-- API modularization: PyNest
+## Stack
 - API: FastAPI
-- Frontend Framework: Streamlit
-- Storage: Atlas MongoDB
+- Serverless: GCP Cloud Run
 
 ## Get started
 
@@ -40,15 +32,9 @@ This is a template for ML application projects
 
 ## Usage
 
-1. Run the application.
+1. Run the server locally.
 
-    Run frontend.
     ```bash
-    streamlit run src.streamlit_app.py
+    $ python -m app
     ```
-
-    Run backend Swagger UI using uvicorn.
-    ```bash
-    uvicorn "app:app" --host "0.0.0.0" --port "80" --reload
-    ```
-    To send requests: Go to the fastapi docs and use your api endpoints - http://127.0.0.1/docs
+    To run xicorr process: Go to the fastapi docs and use your api endpoints - lhost:8080/xicorr_mock

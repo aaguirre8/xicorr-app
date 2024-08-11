@@ -1,0 +1,646 @@
+[
+  {
+    "Calendar Date": "2014-06-01",
+    "Electric Vehicles Revenue": 7441657.8,
+    "Light Trucks Revenue": 182245585.5,
+    "Passenger Cars Revenue": 193519189.5,
+    "Total Vehicles Revenue": 194776287.7
+  },
+  {
+    "Calendar Date": "2014-07-01",
+    "Electric Vehicles Revenue": 8588788.5,
+    "Light Trucks Revenue": 224895612.8,
+    "Passenger Cars Revenue": 237418637.8,
+    "Total Vehicles Revenue": 238735859.9
+  },
+  {
+    "Calendar Date": "2014-08-01",
+    "Electric Vehicles Revenue": 8374764.14,
+    "Light Trucks Revenue": 182955512.3,
+    "Passenger Cars Revenue": 195498396.9,
+    "Total Vehicles Revenue": 196803475.8
+  },
+  {
+    "Calendar Date": "2014-09-01",
+    "Electric Vehicles Revenue": 8433297.06,
+    "Light Trucks Revenue": 175907475.6,
+    "Passenger Cars Revenue": 188615829.6,
+    "Total Vehicles Revenue": 189915398.5
+  },
+  {
+    "Calendar Date": "2014-10-01",
+    "Electric Vehicles Revenue": 8466020.76,
+    "Light Trucks Revenue": 231786810.7,
+    "Passenger Cars Revenue": 244759458.2,
+    "Total Vehicles Revenue": 246078832.6
+  },
+  {
+    "Calendar Date": "2014-11-01",
+    "Electric Vehicles Revenue": 8322992.94,
+    "Light Trucks Revenue": 183355010.1,
+    "Passenger Cars Revenue": 195660235.1,
+    "Total Vehicles Revenue": 196978533
+  },
+  {
+    "Calendar Date": "2014-12-01",
+    "Electric Vehicles Revenue": 8480441.38,
+    "Light Trucks Revenue": 186794407.2,
+    "Passenger Cars Revenue": 199488392.7,
+    "Total Vehicles Revenue": 200837758.3
+  },
+  {
+    "Calendar Date": "2015-01-01",
+    "Electric Vehicles Revenue": 10797411.96,
+    "Light Trucks Revenue": 241744015.7,
+    "Passenger Cars Revenue": 256616292.3,
+    "Total Vehicles Revenue": 258016035.6
+  },
+  {
+    "Calendar Date": "2015-02-01",
+    "Electric Vehicles Revenue": 10647050.52,
+    "Light Trucks Revenue": 180153528.3,
+    "Passenger Cars Revenue": 194723891.1,
+    "Total Vehicles Revenue": 196057491.6
+  },
+  {
+    "Calendar Date": "2015-03-01",
+    "Electric Vehicles Revenue": 8514896.36,
+    "Light Trucks Revenue": 174126390.4,
+    "Passenger Cars Revenue": 187136210.6,
+    "Total Vehicles Revenue": 188521411.7
+  },
+  {
+    "Calendar Date": "2015-04-01",
+    "Electric Vehicles Revenue": 9934363.18,
+    "Light Trucks Revenue": 229156240.7,
+    "Passenger Cars Revenue": 243426126.5,
+    "Total Vehicles Revenue": 244804703.8
+  },
+  {
+    "Calendar Date": "2015-05-01",
+    "Electric Vehicles Revenue": 10208888.1,
+    "Light Trucks Revenue": 190675498.2,
+    "Passenger Cars Revenue": 205277439,
+    "Total Vehicles Revenue": 206605144.2
+  },
+  {
+    "Calendar Date": "2015-06-01",
+    "Electric Vehicles Revenue": 9875487.12,
+    "Light Trucks Revenue": 185244899,
+    "Passenger Cars Revenue": 199398024.1,
+    "Total Vehicles Revenue": 200721000.5
+  },
+  {
+    "Calendar Date": "2015-07-01",
+    "Electric Vehicles Revenue": 11118484.98,
+    "Light Trucks Revenue": 242282038.6,
+    "Passenger Cars Revenue": 258124982.3,
+    "Total Vehicles Revenue": 259512284
+  },
+  {
+    "Calendar Date": "2015-08-01",
+    "Electric Vehicles Revenue": 10644681.22,
+    "Light Trucks Revenue": 197863363.3,
+    "Passenger Cars Revenue": 213090022.6,
+    "Total Vehicles Revenue": 214480249.9
+  },
+  {
+    "Calendar Date": "2015-09-01",
+    "Electric Vehicles Revenue": 10428748.5,
+    "Light Trucks Revenue": 232919831.3,
+    "Passenger Cars Revenue": 247755336.5,
+    "Total Vehicles Revenue": 249144144.5
+  },
+  {
+    "Calendar Date": "2015-10-01",
+    "Electric Vehicles Revenue": 9955771.62,
+    "Light Trucks Revenue": 197562896.8,
+    "Passenger Cars Revenue": 212213931,
+    "Total Vehicles Revenue": 213643834.9
+  },
+  {
+    "Calendar Date": "2015-11-01",
+    "Electric Vehicles Revenue": 11284434.4,
+    "Light Trucks Revenue": 190381629.6,
+    "Passenger Cars Revenue": 205963578.3,
+    "Total Vehicles Revenue": 207384675.3
+  },
+  {
+    "Calendar Date": "2015-12-01",
+    "Electric Vehicles Revenue": 11082291.12,
+    "Light Trucks Revenue": 197569753,
+    "Passenger Cars Revenue": 213324775.7,
+    "Total Vehicles Revenue": 214820776
+  },
+  {
+    "Calendar Date": "2016-01-01",
+    "Electric Vehicles Revenue": 12975768.8,
+    "Light Trucks Revenue": 250131116.7,
+    "Passenger Cars Revenue": 267216786.5,
+    "Total Vehicles Revenue": 268746818.9
+  },
+  {
+    "Calendar Date": "2016-02-01",
+    "Electric Vehicles Revenue": 12258031.64,
+    "Light Trucks Revenue": 187421756.4,
+    "Passenger Cars Revenue": 203958093.3,
+    "Total Vehicles Revenue": 205445954.4
+  },
+  {
+    "Calendar Date": "2016-03-01",
+    "Electric Vehicles Revenue": 12657088.26,
+    "Light Trucks Revenue": 226971470.8,
+    "Passenger Cars Revenue": 244808593.7,
+    "Total Vehicles Revenue": 246355221.4
+  },
+  {
+    "Calendar Date": "2016-04-01",
+    "Electric Vehicles Revenue": 11190667.88,
+    "Light Trucks Revenue": 198603847.4,
+    "Passenger Cars Revenue": 214711440.5,
+    "Total Vehicles Revenue": 216348249.1
+  },
+  {
+    "Calendar Date": "2016-05-01",
+    "Electric Vehicles Revenue": 12284128.9,
+    "Light Trucks Revenue": 202948032.7,
+    "Passenger Cars Revenue": 219776722.6,
+    "Total Vehicles Revenue": 221240511.5
+  },
+  {
+    "Calendar Date": "2016-06-01",
+    "Electric Vehicles Revenue": 12211887.1,
+    "Light Trucks Revenue": 218802543.1,
+    "Passenger Cars Revenue": 235769827.4,
+    "Total Vehicles Revenue": 237268795.5
+  },
+  {
+    "Calendar Date": "2016-07-01",
+    "Electric Vehicles Revenue": 11013251.96,
+    "Light Trucks Revenue": 202939400.7,
+    "Passenger Cars Revenue": 218783189.5,
+    "Total Vehicles Revenue": 220390451.6
+  },
+  {
+    "Calendar Date": "2016-08-01",
+    "Electric Vehicles Revenue": 13499812.74,
+    "Light Trucks Revenue": 221136386.1,
+    "Passenger Cars Revenue": 239603874.3,
+    "Total Vehicles Revenue": 241050063.4
+  },
+  {
+    "Calendar Date": "2016-09-01",
+    "Electric Vehicles Revenue": 11075663.92,
+    "Light Trucks Revenue": 205046601,
+    "Passenger Cars Revenue": 220959699.1,
+    "Total Vehicles Revenue": 222319355.4
+  },
+  {
+    "Calendar Date": "2016-10-01",
+    "Electric Vehicles Revenue": 12584957.04,
+    "Light Trucks Revenue": 207386653.3,
+    "Passenger Cars Revenue": 224773596.2,
+    "Total Vehicles Revenue": 226296739.9
+  },
+  {
+    "Calendar Date": "2016-11-01",
+    "Electric Vehicles Revenue": 12966093.24,
+    "Light Trucks Revenue": 214855663.1,
+    "Passenger Cars Revenue": 232463629.6,
+    "Total Vehicles Revenue": 233906425.4
+  },
+  {
+    "Calendar Date": "2016-12-01",
+    "Electric Vehicles Revenue": 11446838.42,
+    "Light Trucks Revenue": 220739226.4,
+    "Passenger Cars Revenue": 237302476.8,
+    "Total Vehicles Revenue": 238989343.2
+  },
+  {
+    "Calendar Date": "2017-01-01",
+    "Electric Vehicles Revenue": 15840474.04,
+    "Light Trucks Revenue": 292567959.3,
+    "Passenger Cars Revenue": 313000004.5,
+    "Total Vehicles Revenue": 314731921.4
+  },
+  {
+    "Calendar Date": "2017-02-01",
+    "Electric Vehicles Revenue": 13446915.98,
+    "Light Trucks Revenue": 194437132,
+    "Passenger Cars Revenue": 212645297.5,
+    "Total Vehicles Revenue": 214254807.6
+  },
+  {
+    "Calendar Date": "2017-03-01",
+    "Electric Vehicles Revenue": 12129203.66,
+    "Light Trucks Revenue": 211334486.5,
+    "Passenger Cars Revenue": 230668085.8,
+    "Total Vehicles Revenue": 232430734.5
+  },
+  {
+    "Calendar Date": "2017-04-01",
+    "Electric Vehicles Revenue": 13020003.08,
+    "Light Trucks Revenue": 199055850,
+    "Passenger Cars Revenue": 217052182.6,
+    "Total Vehicles Revenue": 219019512.2
+  },
+  {
+    "Calendar Date": "2017-05-01",
+    "Electric Vehicles Revenue": 14436282.84,
+    "Light Trucks Revenue": 224992957,
+    "Passenger Cars Revenue": 244576920.5,
+    "Total Vehicles Revenue": 246163000.6
+  },
+  {
+    "Calendar Date": "2017-06-01",
+    "Electric Vehicles Revenue": 11953643.28,
+    "Light Trucks Revenue": 216324883.3,
+    "Passenger Cars Revenue": 234359789,
+    "Total Vehicles Revenue": 236058443.3
+  },
+  {
+    "Calendar Date": "2017-07-01",
+    "Electric Vehicles Revenue": 13827202.88,
+    "Light Trucks Revenue": 213086662.3,
+    "Passenger Cars Revenue": 231957726.4,
+    "Total Vehicles Revenue": 233812673.2
+  },
+  {
+    "Calendar Date": "2017-08-01",
+    "Electric Vehicles Revenue": 14965147.08,
+    "Light Trucks Revenue": 226398690.9,
+    "Passenger Cars Revenue": 246806088.5,
+    "Total Vehicles Revenue": 248461974.6
+  },
+  {
+    "Calendar Date": "2017-09-01",
+    "Electric Vehicles Revenue": 15022197.62,
+    "Light Trucks Revenue": 201694023.8,
+    "Passenger Cars Revenue": 222661444.9,
+    "Total Vehicles Revenue": 224426407
+  },
+  {
+    "Calendar Date": "2017-10-01",
+    "Electric Vehicles Revenue": 18412246.02,
+    "Light Trucks Revenue": 218779028.2,
+    "Passenger Cars Revenue": 242540684,
+    "Total Vehicles Revenue": 244335237
+  },
+  {
+    "Calendar Date": "2017-11-01",
+    "Electric Vehicles Revenue": 21961139.36,
+    "Light Trucks Revenue": 219659405,
+    "Passenger Cars Revenue": 246804896.5,
+    "Total Vehicles Revenue": 248559640.8
+  },
+  {
+    "Calendar Date": "2017-12-01",
+    "Electric Vehicles Revenue": 16395883.94,
+    "Light Trucks Revenue": 218626180.7,
+    "Passenger Cars Revenue": 241158351,
+    "Total Vehicles Revenue": 243629179.8
+  },
+  {
+    "Calendar Date": "2018-01-01",
+    "Electric Vehicles Revenue": 22877952.82,
+    "Light Trucks Revenue": 308409478.7,
+    "Passenger Cars Revenue": 336220959.8,
+    "Total Vehicles Revenue": 338510202.5
+  },
+  {
+    "Calendar Date": "2018-02-01",
+    "Electric Vehicles Revenue": 22470439.68,
+    "Light Trucks Revenue": 199257649.6,
+    "Passenger Cars Revenue": 226866573.2,
+    "Total Vehicles Revenue": 228985979.1
+  },
+  {
+    "Calendar Date": "2018-03-01",
+    "Electric Vehicles Revenue": 19396675.92,
+    "Light Trucks Revenue": 208959258.3,
+    "Passenger Cars Revenue": 236746213.7,
+    "Total Vehicles Revenue": 239024112.7
+  },
+  {
+    "Calendar Date": "2018-04-01",
+    "Electric Vehicles Revenue": 22662568.06,
+    "Light Trucks Revenue": 211027873.3,
+    "Passenger Cars Revenue": 239287497,
+    "Total Vehicles Revenue": 241868104.8
+  },
+  {
+    "Calendar Date": "2018-05-01",
+    "Electric Vehicles Revenue": 20542498.66,
+    "Light Trucks Revenue": 233155839.7,
+    "Passenger Cars Revenue": 259233859.2,
+    "Total Vehicles Revenue": 261115125.2
+  },
+  {
+    "Calendar Date": "2018-06-01",
+    "Electric Vehicles Revenue": 21415045.92,
+    "Light Trucks Revenue": 209756337.3,
+    "Passenger Cars Revenue": 237508921.3,
+    "Total Vehicles Revenue": 239649555.6
+  },
+  {
+    "Calendar Date": "2018-07-01",
+    "Electric Vehicles Revenue": 22330949.66,
+    "Light Trucks Revenue": 227183975.3,
+    "Passenger Cars Revenue": 255003343.3,
+    "Total Vehicles Revenue": 257305938.5
+  },
+  {
+    "Calendar Date": "2018-08-01",
+    "Electric Vehicles Revenue": 22755685.16,
+    "Light Trucks Revenue": 227062168.3,
+    "Passenger Cars Revenue": 255723250.7,
+    "Total Vehicles Revenue": 257800961.8
+  },
+  {
+    "Calendar Date": "2018-09-01",
+    "Electric Vehicles Revenue": 20996580.42,
+    "Light Trucks Revenue": 205658219,
+    "Passenger Cars Revenue": 232477451.6,
+    "Total Vehicles Revenue": 234758283.1
+  },
+  {
+    "Calendar Date": "2018-10-01",
+    "Electric Vehicles Revenue": 24441014.8,
+    "Light Trucks Revenue": 236438029.8,
+    "Passenger Cars Revenue": 266508479,
+    "Total Vehicles Revenue": 268820670.3
+  },
+  {
+    "Calendar Date": "2018-11-01",
+    "Electric Vehicles Revenue": 20118063.74,
+    "Light Trucks Revenue": 215846290.3,
+    "Passenger Cars Revenue": 241421480.5,
+    "Total Vehicles Revenue": 243778013.2
+  },
+  {
+    "Calendar Date": "2018-12-01",
+    "Electric Vehicles Revenue": 22735233.18,
+    "Light Trucks Revenue": 233502631.8,
+    "Passenger Cars Revenue": 262204164.1,
+    "Total Vehicles Revenue": 265341981
+  },
+  {
+    "Calendar Date": "2019-01-01",
+    "Electric Vehicles Revenue": 44997967.9,
+    "Light Trucks Revenue": 345167672.9,
+    "Passenger Cars Revenue": 396600150.3,
+    "Total Vehicles Revenue": 399363245.8
+  },
+  {
+    "Calendar Date": "2019-02-01",
+    "Electric Vehicles Revenue": 39396566.12,
+    "Light Trucks Revenue": 203988655.4,
+    "Passenger Cars Revenue": 248626558.1,
+    "Total Vehicles Revenue": 251448774.4
+  },
+  {
+    "Calendar Date": "2019-03-01",
+    "Electric Vehicles Revenue": 37966153.78,
+    "Light Trucks Revenue": 206833123.5,
+    "Passenger Cars Revenue": 251720476.9,
+    "Total Vehicles Revenue": 254832857.7
+  },
+  {
+    "Calendar Date": "2019-04-01",
+    "Electric Vehicles Revenue": 36487500.44,
+    "Light Trucks Revenue": 226067930.7,
+    "Passenger Cars Revenue": 268181906.8,
+    "Total Vehicles Revenue": 271411949
+  },
+  {
+    "Calendar Date": "2019-05-01",
+    "Electric Vehicles Revenue": 33922406.96,
+    "Light Trucks Revenue": 232937634.3,
+    "Passenger Cars Revenue": 272795330.8,
+    "Total Vehicles Revenue": 274895327.5
+  },
+  {
+    "Calendar Date": "2019-06-01",
+    "Electric Vehicles Revenue": 36497466.32,
+    "Light Trucks Revenue": 216975195,
+    "Passenger Cars Revenue": 259415765.5,
+    "Total Vehicles Revenue": 261958026.7
+  },
+  {
+    "Calendar Date": "2019-07-01",
+    "Electric Vehicles Revenue": 38574425.48,
+    "Light Trucks Revenue": 248051862.7,
+    "Passenger Cars Revenue": 292124518,
+    "Total Vehicles Revenue": 294735766.7
+  },
+  {
+    "Calendar Date": "2019-08-01",
+    "Electric Vehicles Revenue": 35528769.18,
+    "Light Trucks Revenue": 226754940.9,
+    "Passenger Cars Revenue": 268324436,
+    "Total Vehicles Revenue": 270967578.8
+  },
+  {
+    "Calendar Date": "2019-09-01",
+    "Electric Vehicles Revenue": 34419221.62,
+    "Light Trucks Revenue": 222755613.5,
+    "Passenger Cars Revenue": 263084862.7,
+    "Total Vehicles Revenue": 265615798
+  },
+  {
+    "Calendar Date": "2019-10-01",
+    "Electric Vehicles Revenue": 38590729.76,
+    "Light Trucks Revenue": 250209203.3,
+    "Passenger Cars Revenue": 294475768.5,
+    "Total Vehicles Revenue": 297051138.7
+  },
+  {
+    "Calendar Date": "2019-11-01",
+    "Electric Vehicles Revenue": 33914039.74,
+    "Light Trucks Revenue": 215966077.2,
+    "Passenger Cars Revenue": 255898739.3,
+    "Total Vehicles Revenue": 258346280.2
+  },
+  {
+    "Calendar Date": "2019-12-01",
+    "Electric Vehicles Revenue": 36577018.56,
+    "Light Trucks Revenue": 259690656.4,
+    "Passenger Cars Revenue": 302215684.6,
+    "Total Vehicles Revenue": 305090808.7
+  },
+  {
+    "Calendar Date": "2020-01-01",
+    "Electric Vehicles Revenue": 44188271.88,
+    "Light Trucks Revenue": 343989829.5,
+    "Passenger Cars Revenue": 393807437.2,
+    "Total Vehicles Revenue": 396521841.4
+  },
+  {
+    "Calendar Date": "2020-02-01",
+    "Electric Vehicles Revenue": 38474592.64,
+    "Light Trucks Revenue": 214721869.6,
+    "Passenger Cars Revenue": 259818446,
+    "Total Vehicles Revenue": 262305307.7
+  },
+  {
+    "Calendar Date": "2020-03-01",
+    "Electric Vehicles Revenue": 35498588.06,
+    "Light Trucks Revenue": 225109232.6,
+    "Passenger Cars Revenue": 267397068.6,
+    "Total Vehicles Revenue": 269798827.1
+  },
+  {
+    "Calendar Date": "2020-04-01",
+    "Electric Vehicles Revenue": 36019365.14,
+    "Light Trucks Revenue": 205871806.1,
+    "Passenger Cars Revenue": 246803666.1,
+    "Total Vehicles Revenue": 248880841.8
+  },
+  {
+    "Calendar Date": "2020-05-01",
+    "Electric Vehicles Revenue": 24862252.78,
+    "Light Trucks Revenue": 190824019.8,
+    "Passenger Cars Revenue": 221163030.2,
+    "Total Vehicles Revenue": 226273083.2
+  },
+  {
+    "Calendar Date": "2020-06-01",
+    "Electric Vehicles Revenue": 33424126.26,
+    "Light Trucks Revenue": 214321961.7,
+    "Passenger Cars Revenue": 253352252.3,
+    "Total Vehicles Revenue": 255206699.8
+  },
+  {
+    "Calendar Date": "2020-07-01",
+    "Electric Vehicles Revenue": 37258352.1,
+    "Light Trucks Revenue": 225861813.2,
+    "Passenger Cars Revenue": 268518479.1,
+    "Total Vehicles Revenue": 270416845.5
+  },
+  {
+    "Calendar Date": "2020-08-01",
+    "Electric Vehicles Revenue": 32288411.9,
+    "Light Trucks Revenue": 208852097.7,
+    "Passenger Cars Revenue": 246664050.2,
+    "Total Vehicles Revenue": 248557035.8
+  },
+  {
+    "Calendar Date": "2020-09-01",
+    "Electric Vehicles Revenue": 36127855.9,
+    "Light Trucks Revenue": 232406772.1,
+    "Passenger Cars Revenue": 274175357.5,
+    "Total Vehicles Revenue": 276064735
+  },
+  {
+    "Calendar Date": "2020-10-01",
+    "Electric Vehicles Revenue": 34445676.08,
+    "Light Trucks Revenue": 233362702.5,
+    "Passenger Cars Revenue": 273418033.9,
+    "Total Vehicles Revenue": 275332246.3
+  },
+  {
+    "Calendar Date": "2020-11-01",
+    "Electric Vehicles Revenue": 35626313.66,
+    "Light Trucks Revenue": 224011638.4,
+    "Passenger Cars Revenue": 265499989.7,
+    "Total Vehicles Revenue": 267325978.3
+  },
+  {
+    "Calendar Date": "2020-12-01",
+    "Electric Vehicles Revenue": 37718765.04,
+    "Light Trucks Revenue": 263448466.6,
+    "Passenger Cars Revenue": 307253676.8,
+    "Total Vehicles Revenue": 309197680.4
+  },
+  {
+    "Calendar Date": "2021-01-01",
+    "Electric Vehicles Revenue": 38248206.12,
+    "Light Trucks Revenue": 325884865.7,
+    "Passenger Cars Revenue": 369512630.7,
+    "Total Vehicles Revenue": 371425712.6
+  },
+  {
+    "Calendar Date": "2021-02-01",
+    "Electric Vehicles Revenue": 34791467.72,
+    "Light Trucks Revenue": 219081226.4,
+    "Passenger Cars Revenue": 259433893.8,
+    "Total Vehicles Revenue": 261328061.5
+  },
+  {
+    "Calendar Date": "2021-03-01",
+    "Electric Vehicles Revenue": 38305561.42,
+    "Light Trucks Revenue": 245813759.5,
+    "Passenger Cars Revenue": 290883276.4,
+    "Total Vehicles Revenue": 292793960.9
+  },
+  {
+    "Calendar Date": "2021-04-01",
+    "Electric Vehicles Revenue": 36648043.22,
+    "Light Trucks Revenue": 238940507.6,
+    "Passenger Cars Revenue": 282228568.6,
+    "Total Vehicles Revenue": 284002893.1
+  },
+  {
+    "Calendar Date": "2021-05-01",
+    "Electric Vehicles Revenue": 39108004.38,
+    "Light Trucks Revenue": 224570785.8,
+    "Passenger Cars Revenue": 269608154.3,
+    "Total Vehicles Revenue": 271424229.8
+  },
+  {
+    "Calendar Date": "2021-06-01",
+    "Electric Vehicles Revenue": 40258819.94,
+    "Light Trucks Revenue": 254259705.2,
+    "Passenger Cars Revenue": 300695432.4,
+    "Total Vehicles Revenue": 302534606.2
+  },
+  {
+    "Calendar Date": "2021-07-01",
+    "Electric Vehicles Revenue": 38947563.06,
+    "Light Trucks Revenue": 255337724.6,
+    "Passenger Cars Revenue": 300310593.1,
+    "Total Vehicles Revenue": 302155098.7
+  },
+  {
+    "Calendar Date": "2021-08-01",
+    "Electric Vehicles Revenue": 38998049.86,
+    "Light Trucks Revenue": 255105365.2,
+    "Passenger Cars Revenue": 300094280.4,
+    "Total Vehicles Revenue": 301910325.8
+  },
+  {
+    "Calendar Date": "2021-09-01",
+    "Electric Vehicles Revenue": 41294296.38,
+    "Light Trucks Revenue": 265735564.2,
+    "Passenger Cars Revenue": 313134624.8,
+    "Total Vehicles Revenue": 314904702.8
+  },
+  {
+    "Calendar Date": "2021-10-01",
+    "Electric Vehicles Revenue": 40520397.12,
+    "Light Trucks Revenue": 254231662,
+    "Passenger Cars Revenue": 300655354.6,
+    "Total Vehicles Revenue": 302454021.5
+  },
+  {
+    "Calendar Date": "2021-11-01",
+    "Electric Vehicles Revenue": 38021413,
+    "Light Trucks Revenue": 266834260.2,
+    "Passenger Cars Revenue": 310770126.2,
+    "Total Vehicles Revenue": 312565145.9
+  },
+  {
+    "Calendar Date": "2021-12-01",
+    "Electric Vehicles Revenue": 41217138.56,
+    "Light Trucks Revenue": 298105507.9,
+    "Passenger Cars Revenue": 347959213.9,
+    "Total Vehicles Revenue": 349831670.3
+  },
+  {
+    "Calendar Date": "2022-01-01",
+    "Electric Vehicles Revenue": 41750247.86,
+    "Light Trucks Revenue": 371805246.4,
+    "Passenger Cars Revenue": 427197375.6,
+    "Total Vehicles Revenue": 429046259.1
+  }
+]
