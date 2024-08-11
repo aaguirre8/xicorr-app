@@ -37,4 +37,4 @@ This app computes the Xi Correlation between two arrays.
     ```bash
     $ python -m app
     ```
-    To run xicorr process: Go to the fastapi docs and use your api endpoints - lhost:8080/xicorr_mock
+    To run xicorr process: Go to the fastapi docs and use your api endpoints - lhost:8000/xicorr_mock
