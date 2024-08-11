@@ -1,0 +1,16 @@
+steps:
+  # Build the container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', '$_IMAGE_URL', '.']
+  # Push the container image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', '$_IMAGE_URL']
+  # Deploy the container image to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args: ['run', 'deploy', '$_CUSTOM_SERVICE_NAME', '--image', '$_IMAGE_URL', '--region', '$_REGION', '--allow-unauthenticated']
+substitutions:
+  _REGION: 'us-central1' # Default region; this can be overridden in the trigger configuration
+  _CUSTOM_SERVICE_NAME: 'xicorr-fastapi-dev' # Default service name; this can be overridden in the trigger configuration
+  _CUSTOM_PROJECT_ID: 'ezml-dev-417920' # Default project ID; this can be overridden in the trigger configuration
+  _IMAGE_URL: 'gcr.io/ezml-dev-417920/xicorr-fastapi-dev-img' # Default image URL; this can be overridden in the trigger configuration
